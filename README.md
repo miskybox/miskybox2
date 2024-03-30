@@ -1,21 +1,4 @@
-import React from "react";
-import { FaReact, FaJs, FaHtml5, FaCss3, FaFigma } from "react-icons/fa";
-import {
-  SiTypescript,
-  SiBootstrap,
-  SiTailwindcss,
-  SiJest,
-  SiPostman,
-} from "react-icons/si";
-import { IconContext } from "react-icons";
-import { FaLinkedin } from "react-icons/fa";
 
-const Eva = () => {
-  return (
-    <IconContext.Provider value={{ color: "blue", size: "1.5em" }}>
-      <div className="profile">
-        <h2 className="greeting">
-          <span role="img" aria-label="wave">
             👋
           </span>{" "}
           Hi, I’m <span className="name">@Eva</span>, Front-end developer
