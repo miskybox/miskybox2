@@ -1,4 +1,7 @@
-https://github.com/miskybox/miskybox/blob/main/src/assets/bgReact.png!
-<div style="background-image: url('https://github.com/miskybox/miskybox/blob/main/src/assets/bgReact.png!'); background-size: cover; height: 300px;">
-  <!-- Aquí puedes colocar el contenido de tu README, como texto, enlaces, etc. -->
-</div>
+👋 Hi, I’m @Eva, Front-end developer specializing in React 💻.
+
+Techskills: React - JavaScript - Html - CSS - TypeScript - Bootstrap - Tailwind CSS - Figma . I’m currently learning Jest,Postman.
+
+Softkills: Autodidact. Resolute. Team player. Learning capacity and adaptation.
+
+About me: I am a person motivated by learning continuous. Travel, photograph landscapes and playing sports are some of the activities that I enjoy. In the programming, discovered the ideal field to explore and develop my skills.
