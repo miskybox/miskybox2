@@ -22,10 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-# Ignorar archivos temporales
-*.tmp
-*.log
-
-# Ignorar la carpeta de compilación
-/build
-doc/*.txt
