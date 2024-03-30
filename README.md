@@ -1,3 +1,5 @@
+![portada_GOT](https://github.com/miskybox/miskybox/assets/139983709/d2ce0dbc-7686-4799-87f3-06a6a160a502)
+
 import React from "react";
 import { FaReact, FaJs, FaHtml5, FaCss3, FaFigma } from "react-icons/fa";
 import {
