@@ -1,1 +1,1 @@
-código en react de la portada de mi perfil de github
+código de la portada de mi perfil de github - React+Vite
